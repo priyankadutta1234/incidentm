@@ -1,0 +1,116 @@
+<html>  
+<head>   
+<title ="CENTRE">  
+INCIDENT MANAGEMENT
+<html>  
+<head>   
+<title ="CENTRE">  
+INCIDENT MANAGEMENT
+</title>  
+</head>  
+
+<body bgcolor="Lightskyblue" align ="centre">  
+ 
+<h1><p style="text-align:center;">NEW INCIDENT</h1></p>
+<br>  
+<br> 
+
+<form style="text-align: center; ">
+  
+<label> INCIDENT NUMBER: </label>         
+<input type="text" name="firstname" size="15"/> <br> <br>  
+DESCRIPTION:
+<BR>
+<textarea name="text" cols="25" rows="5">
+
+</textarea>
+<BR>
+ATTACHMENT:   
+<input type="file" name="fileupload" value="fileupload" id="fileupload" size="40">
+      <input type="submit" value="Upload">       
+<br>
+<br>
+<label>   
+PRIORITY :  
+</label>   
+<select>  
+<option value="CLIENT">P1</option>  
+<option value="TEAM">P2</option>  
+<option value="PROTIVITI">P3</option>  
+<option value="PROTIVITI">P4</option>  
+</select>  
+    
+<label>   
+RAISED BY :  
+</label>   
+<select>  
+<option value="CLIENT">Client</option>  
+<option value="TEAM">Team</option>  
+<option value="PROTIVITI">Protiviti</option>  
+
+</select>  
+  <br>
+<br>
+<br>
+   <button type="submit" value="Submit">Submit</button>
+  <button type="reset" value="Reset">Reset</button>
+ <button type="cancel" value="Cancel">Cancel</button>
+
+</form> 
+
+</body>  
+</html>  
+</title>  
+</head>  
+
+<body bgcolor="Lightskyblue" align ="centre">  
+ 
+<h1><p style="text-align:center;">NEW INCIDENT</h1></p>
+<br>  
+<br> 
+
+<form style="text-align: center; ">
+  
+<label> INCIDENT NUMBER: </label>         
+<input type="text" name="firstname" size="15"/> <br> <br>  
+DESCRIPTION:
+<BR>
+<textarea name="text" cols="25" rows="5">
+
+</textarea>
+<BR>
+ATTACHMENT:   
+<input type="file" name="fileupload" value="fileupload" id="fileupload" size="40">
+      <input type="submit" value="Upload">       
+<br>
+<br>
+<label>   
+PRIORITY :  
+</label>   
+<select>  
+<option value="CLIENT">P1</option>  
+<option value="TEAM">P2</option>  
+<option value="PROTIVITI">P3</option>  
+<option value="PROTIVITI">P4</option>  
+</select>  
+    
+<label>   
+RAISED BY :  
+</label>   
+<select>  
+<option value="CLIENT">Client</option>  
+<option value="TEAM">Team</option>  
+<option value="PROTIVITI">Protiviti</option>  
+
+</select>  
+  <br>
+<br>
+<br>
+   <button type="submit" value="Submit">Submit</button>
+  <button type="reset" value="Reset">Reset</button>
+ <button type="cancel" value="Cancel">Cancel</button>
+
+</form> 
+
+</body>  
+</html>  
